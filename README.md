@@ -1,3 +1,3 @@
 # ROYAL-CARS-DM
 
-live: https://mahadihasancoder.github.io/ROYAL-CARS-DM/
+live: https://mahadidev7.github.io/ROYAL-CARS-DM/
